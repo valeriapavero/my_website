@@ -4,4 +4,4 @@
 
 **bold**
 
-Hello world, how are you this beautiful morning?
+Hello world, how are you this amazing morning?
